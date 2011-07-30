@@ -5,4 +5,8 @@ I whipped this together in an hour, but hopefully can work on improving the algo
 
 Just so you don't have to do it, 97% of the geeks interviewed use a Mac :)
 
+To use 
 
+./whouses <tool>
+
+i.e., ./whouses Mac

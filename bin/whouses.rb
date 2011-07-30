@@ -1,6 +1,5 @@
 #!/bin/ruby
 
-# get list of names
 $search = ARGV[0]
 $geeks = []
 
@@ -20,6 +19,7 @@ class Geek
   
 end
 
+# get list of names
 puts "Getting list of geeks from usesthis.com"
 
 `curl --silent http://www.usesthis.com/archives/ | grep ".usesthis.com/' title='"`.split("\n").each do |geek|
