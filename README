@@ -1,0 +1,8 @@
+whouses is a simple script that scrapes data from geek interview site usesthis.com to find out what geeks are using what hardware/software/tools.
+
+It's pretty simple in design, and the results need to be given some allowance for inaccuracies (i.e., an interviewee mentioning a product, but not actually using it).
+I whipped this together in an hour, but hopefully can work on improving the algorithm to be more intelligent.
+
+Just so you don't have to do it, 97% of the geeks interviewed use a Mac :)
+
+
